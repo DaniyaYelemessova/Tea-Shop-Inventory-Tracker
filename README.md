@@ -8,7 +8,6 @@
   <img src="/src/images/TeaShop.drawio.png" alt="js" width="400px"/>
 </p>
 
-<div><img src="" alt="screen of the program" width="50%" display="block" margin-left="auto" margin-right="auto"/></div>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
