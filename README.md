@@ -36,6 +36,8 @@ To get started, you'll need to clone this repository to your local machine. Open
 3. Open the project using **code .**
 4. Install all packages with $ npm install.
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 
 ### <div align="center"> 🤔 _Description:_
 
